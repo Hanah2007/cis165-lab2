@@ -12,7 +12,7 @@ I will store 312 miles and 16 gallons in variables. I will divide the miles by t
 
 
 
-\## Testing
+## Testing
 
 
 
@@ -34,15 +34,15 @@ The temporary test values were restored before the final runs. The final version
 
 
 
-\## Code Explanations
+## Code Explanations
 
 
 
-\### sum.cpp
+### sum.cpp
 
 
 
-The program stores 50 in `first\_number` and 100 in `second\_number`. It adds those two variables and stores the result in `total`, which gives 150. The program then displays the value stored in `total`.
+The program stores 50 in `first_number` and 100 in `second_number`. It adds those two variables and stores the result in `total`, which gives 150. The program then displays the value stored in `total`.
 
 
 
@@ -50,7 +50,7 @@ The calculation is stored in `total` before printing because the assignment requ
 
 
 
-\### mpg.cpp
+### mpg.cpp
 
 
 
@@ -74,7 +74,7 @@ For the changed-value test, the program used 250 miles and 12 gallons. The calcu
 
 
 
-\## How to Compile and Run
+## How to Compile and Run
 
 
 
